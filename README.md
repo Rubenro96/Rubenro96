@@ -6,9 +6,7 @@ Hello — I’m Rubén: economist, data scientist and researcher. This repositor
 - Education
 - Experience (summary)
 - Publications & certifications
-- How to collaborate / contribute
 - Contact & links
-- License
 
 ## About
 I am an economist with a hybrid profile in data science and applied economics. Currently:
@@ -86,13 +84,6 @@ Certifications:
 - Machine Learning with Python (2023)  
 - Web Development in Python (2024)
 
-## How to collaborate / contribute
-
-- Open an issue describing the feature, idea or bug.
-- Create a branch (feature/ or fix/ prefix).
-- Submit a pull request with a clear description and tests/examples when possible.
-
-If you want to propose research collaborations, consulting work, or private projects, reach out via the contact channels below.
 
 ## Contact & links
 
@@ -104,9 +95,4 @@ If you want to propose research collaborations, consulting work, or private proj
 - Projects page: https://www.ruben-rubio.es/pages/projects/  
 - Contact page: https://www.ruben-rubio.es/pages/contact/
 
-## License
-Choose the license that fits your needs (e.g., MIT). Add a LICENSE file to each repository. If you want, I can generate a LICENSE file and a CONTRIBUTING.md template for your repos.
 
----
-
-If you want further changes (badges, bilingual version, or repo-specific instructions), tell me and I will update the README.
